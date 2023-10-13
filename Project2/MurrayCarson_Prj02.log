@@ -1,0 +1,21 @@
+Circuit: * C:\Users\cmurr\OneDrive\Desktop\ELCT 222 Signals and Systems\Projects\Project2\MurrayCarson_Prj02.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Nov 09 18:30:25 2022
+Total elapsed time: 0.112 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2198
+traniter = 2194
+tranpoints = 1098
+accept = 1097
+rejected = 1
+matrix size = 9
+fillins = 1
+solver = Normal
+Matrix Compiler1:      22 opcodes  0.1/[0.0]/0.1
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
